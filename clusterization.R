@@ -1,4 +1,3 @@
-# 📦 Load packages
 library(tidyverse)
 library(rstatix)
 library(ggrepel)
